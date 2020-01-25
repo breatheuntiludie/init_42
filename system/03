@@ -1,0 +1,3 @@
+# first of all take root by "su -"
+# "vi /etc/hostname" so our file is "hostname" in "/etc"
+# reopen terminal and ur da best

@@ -1,0 +1,6 @@
+crontab - program used to install/deinstall or list the tables used to drive the cron 
+useage:
+1. su -
+2. "crontab -l" - to see currently running crontabs
+3. "crontab -e" - to edit the list of cronjobs
+# see more://kvz.io/schedule-tasks-on-linux-using-crontab.html

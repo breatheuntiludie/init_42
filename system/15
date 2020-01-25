@@ -1,0 +1,4 @@
+pkill <process_name>
+# for this use "jobs" to find background process
+# another one is:
+kill <PID>

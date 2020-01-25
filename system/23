@@ -1,0 +1,2 @@
+graphical: su -l <new_name>
+ssh: ssh [new_name@][ip/host]

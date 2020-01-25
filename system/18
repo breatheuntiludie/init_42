@@ -1,0 +1,2 @@
+systemctl stop ssh
+# another one "service ssh status"

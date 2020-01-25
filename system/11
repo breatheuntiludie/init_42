@@ -1,0 +1,4 @@
+df -h
+df -H
+# "-h" - print sizes in powers of 1024 (e.g., 1023M)
+# "-H" - print sizes in powers of 1000 (e.g., 1.1G)

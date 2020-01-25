@@ -1,0 +1,5 @@
+# first of all "ssh-keygen" - generate public and private RSA keys"
+# /root/.ssh/  id_rsa && id_rsa.pub is there location
+# "ssh-copy-id [user@]hostname" - utility for copying 
+#  in "~/.ssh/authorized_keys" we will find ssh-rsa <key>
+~/.ssh/authorized_keys

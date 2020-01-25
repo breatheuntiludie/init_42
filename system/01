@@ -1,0 +1,3 @@
+# run our debian on vbox
+# cat /etc/debian_version (file: debian_version in /etc)
+# 8.11

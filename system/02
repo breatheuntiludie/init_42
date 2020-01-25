@@ -1,0 +1,3 @@
+# fist of all install sudo ("su -" then "apt-get install sudo -y") or just run "su -"
+hostname <new_name>
+$ btw "hostname" shows us current name

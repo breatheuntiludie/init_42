@@ -1,0 +1,3 @@
+systemctl list-unit-files --type=service | grep "enabled" | awk '{print $1}'
+
+# "list-unit-files" shows you all of the unit files (whether they be service, socket, etc.) that are actually on your file system, whether they are loaded or not.  This is helpful if you are trying to find the actual unit-file associated with a service should you need to modify it or perform some other task with it.

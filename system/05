@@ -1,0 +1,2 @@
+service ssh status
+# or run "systemctl status ssh"

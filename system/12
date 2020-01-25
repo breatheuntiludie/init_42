@@ -1,0 +1,2 @@
+# it's better to figure out the exact size of each folder with root access
+du -sh /var/*
