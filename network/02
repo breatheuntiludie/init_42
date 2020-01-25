@@ -1,0 +1,2 @@
+ifconfig en0 | grep broadcast | awk '{printf %6}'
+ipconfig getifaddr en0

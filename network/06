@@ -1,0 +1,3 @@
+# cat /etc/resolv.conf
+# if smth goes wrong use "open /etc"
+/etc/resolv.conf

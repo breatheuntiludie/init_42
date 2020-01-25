@@ -1,0 +1,5 @@
+dig @8.8.8.8 slash16.org +short
+
+# @8.8.8.8 - server (google) also 8.8.4.4
+# +short - Provide a terse answer. The default is to print answer in a verbose form
+equal to summary - just num
