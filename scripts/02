@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "This script delete an ACTIVE user on the VM. BTW u can't suicide!\n"
+echo "Don't forget to add ur user to the sudo group or use root\n"
+who && sleep 2
+echo "Enter username:"
+read username
+sudo kill $(pgrep -u $username)
+sudo deluser $username
